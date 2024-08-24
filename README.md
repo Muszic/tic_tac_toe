@@ -9,9 +9,10 @@ Tic Tac Toe is a two-player game (one of them being played by computer or human)
 
 The two players take turns putting marks on a 3x3 board. The goal of Tic Tac Toe game is to be one of the players to get three same symbols in a row - horizontally, vertically or diagonally on a 3 x 3 grid.  The player who first gets 3 of his/her symbols (marks) in a row - vertically, horizontally, or diagonally wins the game, and the other loses the game. 
 The game can be played by two players. <br/>
+![image](https://github.com/Muszic/tic_tac_toe/blob/main/img/pic-3.png)
 ![image](https://github.com/Muszic/tic_tac_toe/blob/main/img/pic-1.png)
 ![image](https://github.com/Muszic/tic_tac_toe/blob/main/img/pic-2.png)
-![image](https://github.com/Muszic/tic_tac_toe/blob/main/img/pic-3.png)
+
 ### GAME RULES:
 A player can choose between two symbols with his opponent, usual game uses "X" and "O". 
 1.	Initially, the player gets an option to choose to play with either "X" or "O"
